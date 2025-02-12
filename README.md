@@ -1,10 +1,10 @@
 ----------------------------------------------------------
-	About
+About
 ----------------------------------------------------------
 KBITSYS provides personalized software development and prototype outsourcing services. Our team of developers specializes in custom software solutions for individuals, startups, small, and medium-sized businesses. With years of experience, we understand that every business has unique software and hardware needs. To cater to these differences, we offer a comprehensive range of software development services and stay updated with the latest technologies to meet the specific requirements of our clients.
 
 ----------------------------------------------------------
-	Our mission
+Our mission
 ----------------------------------------------------------
 Our mission at KBITSYS is to empower businesses with innovative software solutions that drive growth and efficiency. We strive to create cutting-edge embedded solutions, AI automation systems, and embedded systems that meet the unique needs of our clients. With our expertise in embedded software development, AI capabilities, and mobile app development, we aim to deliver exceptional user experiences and help businesses achieve their goals. We are committed to providing unparalleled customer support and building long-term partnerships with our clients. Choose us as your software development partner and experience the difference between working with a reliable and innovative team. Contact us today to discuss your project requirements and take your business to new heights in the digital era.
 
@@ -35,13 +35,10 @@ Hardware Design
 			
 
 
-Firmware Features			
-
+Firmware Features		
 	Real-Time Operating System (RTOS):
 		- The firmware is powered by an RTOS to enable effective multitasking, ensuring smooth coordination between 	connectivity, motor control, and OTA updates.
 		- RTOS support allows for low-power operation modes, optimizing battery life during idle periods.
- 
-
 	Ultrasonic sensor driving integration:
 		- Integrated ultrasonic sensors provide real-time detection of vehicle presence, ensuring accurate operational control. This feature prevents unauthorized access, allowing the lock to remain closed unless a vehicle is detected, and aids in efficient space management.
 		- The ultrasonic detection code is optimized for quick responsiveness and minimal power draw, contributing to the device's operational efficiency.
@@ -67,7 +64,7 @@ https://youtu.be/8r7OUmauje4
 https://youtu.be/52VretKo4LE
 
 Min He is an award-winning composer based in Los Angeles and Beijing. She graduated from the Central Conservatory of Music and Film Scoring program (SMPTV) at the University of Southern California(USC). Min has amassed a great deal of experience in writing music for Film, TV, and Video games.  She has been working on music for over 70 award-winning projects, including feature films, TV shows, animation, and video games, which have appeared in film festivals all over the world over 150 times. Among the best of her international peers, Min was selected as a participant in the prestigious and difficult-to-get-into program ASCAP Film Scoring Workshop in 2015, the same year she won the RMA-LA Awards. then she joins 3 times nominee Grammy awards composer Photek working on music for Disney ABC’s TV show. In 2017, Min was nominated for Best Original Music for a mobile game from the Hollywood Music In Media Awards (HMMA), alongside Hans Zimmer’s Blade Runner 2049. In 2018, Min co-founded Glissando Music & Sound Productions company. Min is now a member of ASCAP and SCL.
-https://drive.google.com/file/d/1suKafsOnwlJjVDS5HEH-wFso--0JnfWi/view?usp=drive_link
+https://drive.google.com/drive/folders/14vPrvWZyxoF9qEYkcsXaOMTA5FGGjlIz?usp=drive_link
 https://youtu.be/ykTschjUWHQ
 https://youtu.be/52VretKo4LE
 Peter Bence is a Hungarian pianist, composer, and music producer. He has gained considerable popularity with his piano arrangements of Despacito, Michael Jackson, Queen, and Sia collecting over 500 million video hits and a popular following on his YouTube channel and Facebook page.
